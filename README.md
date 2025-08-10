@@ -41,5 +41,6 @@ The main dependencies are:
 (Full list in requirements.txt.)
 
 ## 📂 Live Demo
+https://saarimkhan0012.github.io/-SmartLearn-Study-Planner/
 
 
