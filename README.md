@@ -11,9 +11,35 @@ SmartLearn is a personalized study planner built using Streamlit. It helps you s
 - 🧪 Manual quiz/attempt logging
 - 🗃️ Local database with user-specific plans
 
-## 🚀 How to Run
+## 📂 Project Structure
+```plaintext
+SMART/
+│
+├── .vscode/              # VSCode workspace settings
+├── README.md              # Project documentation
+├── requirements.txt       # Python dependencies
+├── smartlearn_app.py      # Main Streamlit app
+└── smartlearn.db          # SQLite database file
 
-### 1. Install Requirements
+🛠 **Installation**
+Clone the repository
+      git clone https://github.com/your-username/study-planner.git
+      cd study-planner
 
-```bash
-pip install -r requirements.txt
+Install dependencies
+    pip install -r requirements.txt
+
+Run the app
+    streamlit run app.py
+
+📦 **Requirements**
+The main dependencies are:
+    Streamlit
+    Pandas
+    Matplotlib
+    BeautifulSoup4
+(Full list in requirements.txt.)
+
+## 📂 Live Demo
+
+
