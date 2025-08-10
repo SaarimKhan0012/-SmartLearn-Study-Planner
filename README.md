@@ -40,7 +40,7 @@ The main dependencies are:
     BeautifulSoup4
 (Full list in requirements.txt.)
 
-## 📂 Live Demo
-https://saarimkhan0012.github.io/-SmartLearn-Study-Planner/
+
+
 
 
